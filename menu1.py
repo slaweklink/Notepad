@@ -30,7 +30,7 @@ def donothing():
     messagebox.showinfo("Info", "ja też nie")
 
 def oprogramie():
-    messagebox.showinfo("O programie", "Prosty edytor tekstu stworzony za pomocą Pythona")
+    messagebox.showinfo("Info", "tylko notatnik")
 
 def pomoc():
     messagebox.showinfo("Pomoc","Nie potrzebujesz pomocy, to naprawdę prosty program!")
