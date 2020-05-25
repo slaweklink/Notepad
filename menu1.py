@@ -27,6 +27,7 @@ def zapisz():
 
 def donothing():
     messagebox.showinfo("Info", "Ja nic nie robię")
+    messagebox.showinfo("Info", "ja też nie")
 
 def oprogramie():
     messagebox.showinfo("O programie", "Prosty edytor tekstu stworzony za pomocą Pythona")
